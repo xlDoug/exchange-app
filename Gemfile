@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. http://getbootstrap.com
-gem 'bootstrap','~> 4.0.0.alpha3'
+gem 'bootstrap', '~> 4.0.0.alpha3'
 gem 'rest-client'
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
